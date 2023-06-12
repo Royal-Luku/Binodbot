@@ -1,8 +1,8 @@
 class script(object):
-    START_TXT = """Hey, {}! 😃\n
-My Name Is <a href=https://t.me/{}>{}</a>!\n\n I Am A simple Movie Or Series Search Bot In TG File / Video Format!\n Add Me In Your Group And Enjoy ❤"""
-    HELP_TXT = """Hlo Mr/Ms {}! 
-This is My Help Section."""
+    START_TXT = """<b>Hey, {}! 😃\n
+My Name Is <a href=https://t.me/{}>{}</a>!\n\n I Am A simple Movie Or Series Search Bot In TG File / Video Format!\nAdd Me In Your Group And Enjoy ❤</b>"""
+    HELP_TXT = """<b>Hlo Mr/Ms {}! 
+This is My Help Section.</b>"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Royaldwip>𝚁𝚘𝚢𝚊𝚕 𝙳𝚠𝚒𝚙</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
